@@ -51,7 +51,7 @@ Install Tableau Desktop > Double click "Covid_Activity_Dashboards.twbx" file
 4. Time-series plot: used for displaying trends of cases overtime for each country.
 
 ## Visualizations
-- Tableau server link: []()
+- Tableau public link: [https://public.tableau.com/app/profile/tony.vu8297/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory](https://public.tableau.com/app/profile/tony.vu8297/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory)
 
 ## Conclusions
 **Insights from visualizations:**
