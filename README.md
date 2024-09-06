@@ -51,7 +51,7 @@ Install Tableau Desktop > Double click "Covid_Activity_Dashboards.twbx" file
 4. Time-series plot: used for displaying trends of cases overtime for each country.
 
 ## Visualizations
-- Tableau public link: [https://public.tableau.com/app/profile/tony.vu8297/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory](https://public.tableau.com/app/profile/tony.vu8297/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory)
+- Tableau public link: [https://public.tableau.com/app/profile/tony.k.vu/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory](https://public.tableau.com/app/profile/tony.k.vu/viz/Covid_Activity_Dashboards/GlobalCovidCasesStory)
 
 ## Conclusions
 **Insights from visualizations:**
@@ -65,13 +65,13 @@ Install Tableau Desktop > Double click "Covid_Activity_Dashboards.twbx" file
 2. Includes correlated charting to visualize the correlation between spreading pace and country living ranks. 
 
 - Further Analysis:
-1. Did more healthcare advanced countries have slower spread and lower percentage of cases to population?
-2. Did countries with high density have faster spread than countries with lower density?  
+1. How healthcare advancement of countries influent virus spread and the percentage of cases to population?
+2. Did density play a big role in the how fast the virus spread?  
 
 ## License
 - MIT License
 
 ## Contact
 - Name: Tony Vu
-- Email: tonyknvu1@gmail.com
+- Email: [tonyknvu1@gmail.com](mailto:tonyknvu1@gmail.com)
 - LinkedIn: [linkedin.com/in/tonyknvu](https://www.linkedin.com/in/tonyknvu/)
